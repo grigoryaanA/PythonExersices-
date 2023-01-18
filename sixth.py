@@ -1,3 +1,5 @@
+#In the entered interval of natural numbers, find those whose number of divisors is not less than the entered value.
+#  For the found numbers, display the number of divisors and all divisors.
 
 interval = int(input("Enter interval: "))
 value = int(input("Enter value: "))
